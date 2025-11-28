@@ -1,0 +1,9 @@
+name: pinggraph
+version: 0.1.0
+authors:
+  - rishi
+targets:
+  pinggraph:
+    main: src/pinggraph.cr
+crystal: ">= 1.0.0"
+license: MIT
